@@ -54,3 +54,56 @@ Dec 2023
     <script src="js/script.js"></script>
 </body>
 </html>
+    <section id="education">
+        <div class="title">
+            <h2>Education</h2>
+        </div>
+        <div class="content">
+            <ul>
+                <li>High School Diploma - El Dorado High School, 2013</li>
+                <li>Associate Degree in Electrical Engineering - El Paso Community College</li>
+                <li>Bachelor's Degree in Electrical Engineering - University of Texas at El Paso</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="experience">
+        <div class="title">
+            <h2>Work Experience</h2>
+        </div>
+        <div class="content">
+            <ul>
+                <li>Sales Associate / Cashier - Big 5 Sporting Goods</li>
+                <li>Package Handler - UPS</li>
+                <li>Barista / Cashier - Summer Moon Coffee</li>
+            </ul>
+        </div>
+    </section>
+
+    <footer>
+        <div class="social-bar">
+            <ul>
+                <li>
+                    <a href="https://facebook.com" target="_blank">
+                        <img src="images/facebook.png" alt="Facebook">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://twitter.com" target="_blank">
+                        <img src="images/twitter.png" alt="Twitter">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://instagram.com" target="_blank">
+                        <img src="images/instagram.png" alt="Instagram">
+                    </a>
+                </li>
+            </ul>
+            <a href="mailto:cblozano@miners.utep.edu" class="email-icon">
+                <img src="images/email.png" alt="Email">
+            </a>
+        </div>
+    </footer>
+
+</body>
+</html>

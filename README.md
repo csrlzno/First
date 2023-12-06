@@ -22,8 +22,6 @@ Dec 2023
         }
 
         #lead {
-            background: url('background-image.jpg'); /* Add your background image URL */
-            background-size: cover;
             color: white;
             text-align: center;
             padding: 100px 20px;

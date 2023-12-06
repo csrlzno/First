@@ -51,9 +51,6 @@ Dec 2023
         </div>
     </section>
 
-    <script src="js/script.js"></script>
-</body>
-</html>
     <section id="education">
         <div class="title">
             <h2>Education</h2>
@@ -104,6 +101,8 @@ Dec 2023
             </a>
         </div>
     </footer>
+
+    <script src="js/script.js"></script>
 
 </body>
 </html>
